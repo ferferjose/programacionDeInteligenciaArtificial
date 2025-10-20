@@ -1,0 +1,1 @@
+esto es un texto de prueba para ver si este ejercicio funciona bien. Programación de inteligencia artificial. Python es sencillo lo complejo son los métodos que hay.
